@@ -1,23 +1,28 @@
 {
-  "fbdm1": "FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/239526854;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdm1": "FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/239526854;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]",
   "fbdm2": "FBDM/{density=2.625,width=1080,height=2042};FBLC/en_US;FBRV/283878362;FBCR/GLOBR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G973F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
   "fbdm3": "FBDM/{density=2.625,width=1080,height=2183};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A715F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
 
 
 
-  "fbdmb1": "FBDM/{density=3.0,width=1080,height=2176};FBLC/en_US;FBRV/342753089;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G991W;FBSV/12;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmb2": "FBDM/{density=2.8125,width=1080,height=2208};FBLC/en_US;FBRV/394933579;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A135F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
-  "fbdmb3": "FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/TM;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.%s;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+  "fbdma1": "FBDM/{density=3.0,width=1080,height=2176};FBLC/en_US;FBRV/342753089;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G991W;FBSV/12;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdma2": "FBDM/{density=2.8125,width=1080,height=2208};FBLC/en_US;FBRV/394933579;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A135F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+  "fbdma3": "FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/TM;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.%s;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
 
 
 
-  "fbdmc1": "FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/390892742;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
-  "fbdmc2": "FBDM/{density=3.375,width=1080,height=2172};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A235F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmc3": "FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBRV/527025282;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A105FN;FBSV/11;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+  "fbdmb1": "FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/390892742;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+  "fbdmb2": "FBDM/{density=3.375,width=1080,height=2172};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A235F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdmb3": "FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBRV/527025282;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A105FN;FBSV/11;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
 
 
 
-  "fbdmd1": "FBDM/{density=2.0,width=720,height=1365};FBLC/en_US;FBRV/337672225;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-M015F;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
-  "fbdmd2": "FBDM/{density=2.8125,width=1080,height=2191};FBLC/en_US;FBRV/551747078;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G988B;FBSV/13;FBOP/19;FBCA/arm64-v8a:;]",
-  "fbdmd3": "FBDM/{density=2.625,width=1080,height=2199};FBLC/en_US;FBRV/340539389;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G996U;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]"
+  "fbdmc1": "FBDM/{density=2.0,width=720,height=1365};FBLC/en_US;FBRV/337672225;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M015F;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+  "fbdmc2": "FBDM/{density=2.8125,width=1080,height=2191};FBLC/en_US;FBRV/551747078;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G988B;FBSV/13;FBOP/19;FBCA/arm64-v8a:;]",
+  "fbdmc3": "FBDM/{density=2.625,width=1080,height=2199};FBLC/en_US;FBRV/340539389;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G996U;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]"
+
+
+  "oppo1": "FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/572610184;FBCR/TM;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1993;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",
+  "oppo2": "FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/235412020;FBCR/GLOBE;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.%s;FBDV/CPH1893;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+  "oppo3": "FBDM/{density=3.0,width=1080,height=2156};FBLC/en_US;FBRV/455160500;FBCR/TM;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.%s;FBDV/CPH2065;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]"
 }
