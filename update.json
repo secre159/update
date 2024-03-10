@@ -5,9 +5,9 @@
 
 
 
-  "fbdma1": "FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/390892742;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
-  "fbdma2": "FBDM/{density=3.375,width=1080,height=2172};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A235F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdma3": "FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBRV/527025282;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A105FN;FBSV/11;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+  "fbdma1": "FBDM/{density=3.2,width=1080,height=1454};FBLC/en_US;FBRV/278.0.0.3.130;FBCR/TM;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-N960;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdma2": "FBDM/{density=3.0,width=1080,height=1491};FBLC/en_US;FBRV/324.0.0.7.180;FBCR/GLOBE;FBMF/Tecno;FBBD/Tecno;FBPN/com.facebook.%s;FBDV/F3;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdma3": "FBDM/{density=2.0,width=1080,height=1472};FBLC/en_US;FBRV/309.0.0.1.147;FBCR/TM;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.%s;FBDV/RMX3289;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
 
 
 
