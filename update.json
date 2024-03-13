@@ -1,7 +1,7 @@
 {
-  "fbdm1": "FBDM/{density=2.2,width=1080,height=1485};FBLC/en_US;FBRV/267.0.0.3.140;FBCR/TM;FBMF/Nokia;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/TA-1295;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdm2": "FBDM/{density=3.5,width=1080,height=1472};FBLC/en_US;FBRV/383.0.0.2.101;FBCR/GLOBE;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.%s;FBDV/X6815;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdm3": "FBDM/{density=3.4,width=1080,height=1487};FBLC/en_US;FBRV/274.0.0.3.141;FBCR/TM;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.%s;FBDV/XT2127-26;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdm1": "FBDM/{density=3.3,width=1080,height=1489};FBLC/en_US;FBRV/339.0.0.6.108;FBCR/GLOBE;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/S41;FBSV/11;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdm2": "FBDM/{density=3.3,width=1080,height=1484};FBLC/en_US;FBRV/394.0.0.1.115;FBCR/TM;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.%s;FBDV/X652A;FBSV/11;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdm3": "FBDM/{density=3.3,width=1080,height=1435};FBLC/en_US;FBRV/337.0.0.9.151;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.%s;FBDV/SM-A202M;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
 
 
 
