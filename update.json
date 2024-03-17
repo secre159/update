@@ -1,9 +1,6 @@
 {
-  "fbdm1": "FBDM/{density=2.39,width=1427,height=1441};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/M2127K10
-C;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
-  "fbdm2": "FBDM/{density=2.3944373809853436,width=1427,height=1441};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/M2127K10C;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
-  "fbdm3": "FBDM/{density=2.734475
-9257588143,width=1233,height=1424};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Mi Mix 2S;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdm1": "FBDM/{density=3.0,width=1080,height=2177};FBLC/en_US;FBRV/314845422;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A325F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",FBDM/{density=2.625,width=1080,height=2131};FBLC/en_US;FBRV/242199540;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A305GT;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
+  "fbdm3": "FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/278218861;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
 
 
 
