@@ -1,7 +1,11 @@
 {
-  "fbdm1": "FBDM/{density=3.3,width=1080,height=1489};FBLC/en_US;FBRV/339.0.0.6.108;FBCR/GLOBE;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/S41;FBSV/11;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdm2": "FBDM/{density=3.3,width=1080,height=1484};FBLC/en_US;FBRV/394.0.0.1.115;FBCR/TM;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.%s;FBDV/X652A;FBSV/11;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdm3": "FBDM/{density=3.3,width=1080,height=1435};FBLC/en_US;FBRV/337.0.0.9.151;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.%s;FBDV/SM-A202M;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdm1": "FBDM/{density=2.394437
+3809853436,width=1427,height=1441};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/M2127K10
+C;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdm2": "FBDM/{density=2.3944373809853436,width=1427,height=1441};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/M2127K10C;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdm3": "FBDM/{density=2.734475
+9257588143,width=1233,height=1424};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Mi Mix
+2S;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
 
 
 
@@ -11,9 +15,10 @@
 
 
 
-  "fbdmb1": "FBDM/{density=2.1,width=1080,height=1499};FBLC/en_US;FBRV/238.0.0.9.163;FBCR/TM;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/X6819;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdmb2": "FBDM/{density=3.0,width=1080,height=1492};FBLC/en_US;FBRV/363.0.0.2.182;FBCR/GLOBE;FBMF/Tecno;FBBD/Tecno;FBPN/com.facebook.%s;FBDV/Pouvoir 3 Plus;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdmb3": "FBDM/{density=2.2,width=1080,height=1416};FBLC/en_US;FBRV/397.0.0.4.140;FBCR/TM Mobile;FBMF/Nokia;FBBD/Nokia;FBPN/com.facebook.%s;FBDV/TA-1246;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdmb1": "FBDM/{density=2.7344759257588143,width=1233,height=1424};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/Mi Mix 2S;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdmb2": "FBDM/{density=2.474537
+8935764837,width=1384,height=1495};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/X50Pro;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdmb3": "FBDM/{density=2.4745378935764837,width=1384,height=1495};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/X50 Pro;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
 
 
 
