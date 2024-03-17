@@ -1,5 +1,5 @@
 {
-  "fbdm1": "FBDM/{density=3.0,width=1080,height=2177};FBLC/en_US;FBRV/314845422;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A325F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdm1": "FBDM/{density=3.0,width=1080,height=2177};FBLC/en_US;FBRV/314845422;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A325F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",
 
   "fbdm2" : "FBDM/{density=2.625,width=1080,height=2131};FBLC/en_US;FBRV/242199540;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A305GT;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
   "fbdm3": "FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/278218861;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
