@@ -1,14 +1,17 @@
 {
-  "fbdm1": "FBDM/{density=3.0,width=1080,height=2177};FBLC/en_US;FBRV/314845422;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A325F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdm1": "FBDM/{density
+=2.53,width=1116,height=1410};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/LG;FBBD/LG;FBPN/com.facebook.katana;FBDV/iPhone 12;FBSV/10;FBOP/1;FBCA/arm64-v8a;]",
 
-  "fbdm2" : "FBDM/{density=2.625,width=1080,height=2131};FBLC/en_US;FBRV/242199540;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A305GT;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
-  "fbdm3": "FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/278218861;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]",
+  "fbdm2" : "FBDM/{density=2.53,width=1116,height=1410};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/LG;FBBD/LG;FBPN/com.facebook.%s;FBDV/iPhone 12;FBSV/10;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdm3": "FBDM/{density=2.75,width=1361,height=1473};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/A71;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
 
 
 
-  "fbdma1": "FBDM/{density=3.2,width=1080,height=1454};FBLC/en_US;FBRV/278.0.0.3.130;FBCR/TM;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-N960;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdma2": "FBDM/{density=3.0,width=1080,height=1491};FBLC/en_US;FBRV/324.0.0.7.180;FBCR/GLOBE;FBMF/Tecno;FBBD/Tecno;FBPN/com.facebook.%s;FBDV/F3;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
-  "fbdma3": "FBDM/{density=2.0,width=1080,height=1472};FBLC/en_US;FBRV/309.0.0.1.147;FBCR/TM;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.%s;FBDV/RMX3289;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdma1": "FBDM/{density=2.75,width=1361,height=1473};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/A71;FBSV/9;FBOP/1;FBCA/arm64-v8a;]",
+
+ "fbdma2" : "FBDM/{density=3.30,width=1178,height=1410};FBLC/en_US;FBRV/0;FBCR/TNT;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.%s;FBDV/One Plus 7T;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
+
+  "fbdma3": "FBDM/{density=3.30,width=1178,height=1410};FBLC/en_US;FBRV/0;FBCR/TNT;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.%s;FBDV/OnePlus 7T;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
 
 
 
