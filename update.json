@@ -20,9 +20,9 @@
 
 
 
-  "fbdmc1": "FBDM/{density=1.75,width=720,height=1464};FBLC/en_US;FBRV/283611169;FBCR/GLOBEFBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A426B;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmc2": "FBDM/{density=1.3312501,width=1280,height=736};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-T290;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmc3": "FBDM/{density=3.375,width=1080,height=2150};FBLC/en_US;FBRV/371264849;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G781U1;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
+  "fbdmc1": "FBAN/FB4A;FBAV/59.0.0.2618;FBBV/73892798;FBDM/{density=3.172,width=1332,height=1484};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/Mi Note10;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdmc2": "[FBAN/FB4A;FBAV/70.0.0.196;FBBV/83315955;FBDM/{density=2.700,width=1209,height=1486};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.%s;FBDV/Realme GT;FBSV/10;FBOP/1;FBCA/arm64-v8a;]",
+  "fbdmc3": "[FBAN/FB4A;FBAV/64.0.0.196;FBBV/60869004;FBDM/{density=3.160,width=1391,height=1491};FBLC/en_US;FBRV/0;FBCR/SMART;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.%s;FBDV/Redmi9;FBSV/12;FBOP/1;FBCA/arm64-v8a;]",
 
 
   "oppo1": "FBDM/{density=3.1875,width=1080,height=2159};FBLC/en_US;FBRV/456763519;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A536B;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]",
